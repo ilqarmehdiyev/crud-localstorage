@@ -351,7 +351,7 @@ template {
 }
 
 body {
-    background-image: url(./img/Screenshot\ 2023-04-16\ 151217.png);
+    background-image: url(./Screenshot\ 2023-04-16\ 151217.png);
     /* background-image: -webkit-gradient(linear, left top, right top, from(#8360c3), to(#2ebf91)); */
     /* background-image: linear-gradient(to right, #8360c3, #2ebf91); */
     max-height: 100vh;
